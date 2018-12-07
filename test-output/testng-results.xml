@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GeoMans Automation Suite" duration-ms="642467" started-at="2018-12-07T14:49:12Z" finished-at="2018-12-07T14:59:54Z">
+    <groups>
+    </groups>
+    <test name="GeoMans Tests" duration-ms="642467" started-at="2018-12-07T14:49:12Z" finished-at="2018-12-07T14:59:54Z">
+      <class name="tests.HomePageTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.HomePageTests@7a52f2a2]" name="setUp" is-config="true" duration-ms="10796" started-at="2018-12-07T14:49:12Z" finished-at="2018-12-07T14:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="linksVerificationOnHomePage()[pri:1, instance:tests.HomePageTests@7a52f2a2]" name="linksVerificationOnHomePage" duration-ms="521896" started-at="2018-12-07T14:49:23Z" description="Verification Of All Links" finished-at="2018-12-07T14:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linksVerificationOnHomePage -->
+        <test-method status="PASS" signature="imageLogoPresentOnHomePage()[pri:2, instance:tests.HomePageTests@7a52f2a2]" name="imageLogoPresentOnHomePage" duration-ms="92" started-at="2018-12-07T14:58:05Z" description="Verify the Image Logo" finished-at="2018-12-07T14:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageLogoPresentOnHomePage -->
+        <test-method status="PASS" signature="phoneNumberPresentOnHomePage()[pri:3, instance:tests.HomePageTests@7a52f2a2]" name="phoneNumberPresentOnHomePage" duration-ms="63" started-at="2018-12-07T14:58:05Z" description="Verify Phone Number" finished-at="2018-12-07T14:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phoneNumberPresentOnHomePage -->
+        <test-method status="PASS" signature="selectValueLocationDropdown()[pri:4, instance:tests.HomePageTests@7a52f2a2]" name="selectValueLocationDropdown" duration-ms="201" started-at="2018-12-07T14:58:05Z" description="Select Value From Location Drop-down" finished-at="2018-12-07T14:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectValueLocationDropdown -->
+        <test-method status="PASS" signature="verifyBrandsImages()[pri:5, instance:tests.HomePageTests@7a52f2a2]" name="verifyBrandsImages" duration-ms="107206" started-at="2018-12-07T14:58:05Z" description="Verify Brands Images and Products Text" finished-at="2018-12-07T14:59:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrandsImages -->
+        <test-method status="PASS" signature="verifyFooter()[pri:6, instance:tests.HomePageTests@7a52f2a2]" name="verifyFooter" duration-ms="904" started-at="2018-12-07T14:59:52Z" description="Verify Footer" finished-at="2018-12-07T14:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFooter -->
+        <test-method status="PASS" signature="classTeardown()[pri:0, instance:tests.HomePageTests@7a52f2a2]" name="classTeardown" is-config="true" duration-ms="763" started-at="2018-12-07T14:59:53Z" finished-at="2018-12-07T14:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+      </class> <!-- tests.HomePageTests -->
+    </test> <!-- GeoMans Tests -->
+  </suite> <!-- GeoMans Automation Suite -->
+</testng-results>
